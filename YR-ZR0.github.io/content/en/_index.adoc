@@ -1,0 +1,53 @@
+---
+title: "James R (YR-ZR0)"
+author: "James"
+cascade:
+  featured_image: '/images/erik-van-dijk-uAWRPtZ6n0s-unsplash.jpg'
+---
+
+== Me
+I am a Lead DevOps Engineer at a medical company,
+My specialities are in Kubernetes and HA systems.
+
+My inspiration comes from avation industry and the safety processes embedded in it to prevent disaster.
+
+== Experience
+* Built a Scalalble Kubernetes infrastucture that automates cost savings. And on top of this we built
+  ** Monitoring and metrics
+  ** Data storage
+  ** Tracing
+  ** Database
+* I've worked on maintaining AWS accounts to ensure that performance and cost effectiveness are a priority
+
+== Code
+.https://github.com/YR-Zr0/asdf-earthly[asdf-earthly]
+[%collapsible]
+====
+asdf repo for earthly.dev
+====
+.https://github.com[asdf-micro]
+[%collapsible]
+====
+asdf plugin for installing micro.
+====
+.https://github.com/YR-Zr0/FactorioCompose[FactorioCompose]
+[%collapsible]
+====
+A ready to run docker compose repo with sane defaults for deployment 
+====
+.https://github.com/YR-Zr0/gjallarhorn[gjallarhorn]
+[%collapsible]
+====
+A Taskwarrior reminder generator 
+====
+.https://github.com/YR-Zr0/IHearYou[IHearYou]
+[%collapsible]
+====
+A Last.fm Recon tool.
+====
+.https://github.com/YR-Zr0/vagrantboxes-heroku[vagrantboxes-heroku]
+[%collapsible]
+====
+Repository for http://www.vagrantbox.es. 
+Forked to add in a parrot OS vagrant box
+====
