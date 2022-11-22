@@ -40,14 +40,3 @@ A ready to run docker compose repo with sane defaults for deployment
 ====
 A Taskwarrior reminder generator 
 ====
-.https://github.com/YR-Zr0/IHearYou[IHearYou]
-[%collapsible]
-====
-A Last.fm Recon tool.
-====
-.https://github.com/YR-Zr0/vagrantboxes-heroku[vagrantboxes-heroku]
-[%collapsible]
-====
-Repository for http://www.vagrantbox.es. 
-Forked to add in a parrot OS vagrant box
-====
