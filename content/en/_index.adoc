@@ -6,18 +6,18 @@ cascade:
 ---
 
 == Me
-I am a Lead DevOps Engineer at a medical company,
-My specialities are in Kubernetes and HA systems.
+I am a Lead DevOps Engineer at a FinTech company,
+My specialties are in Kubernetes and HA systems.
 
-My inspiration comes from aviation industry and the safety processes embedded in it to prevent disaster.
+My inspiration comes from the aviation industry and the safety processes embedded in it to prevent disaster.
 
 == Experience
-* Built a Scalable Kubernetes infrastructure that automates cost savings. And on top of this we built
+* Built a Scalable Kubernetes infrastructure that automates cost savings. And on top of this, we built
   ** Monitoring and metrics
   ** Data storage
   ** Tracing
   ** Database
-* I've worked on maintaining AWS accounts to ensure that performance and cost effectiveness are a priority
+* I've worked on maintaining AWS accounts to ensure that performance and cost-effectiveness are a priority
 
 
 == Code
