@@ -6,19 +6,39 @@ cascade:
 ---
 
 == Me
-I am a Lead DevOps Engineer at a FinTech company,
-My specialties are in Kubernetes and HA systems.
+I am a Cloud Platform Engineer at a FinTech startup. 
+
+I started my career as a IT Support Engineer and worked my way up to Cloud Platform Engineer. I have a passion for automation and building systems that are resilient and fault tolerant.
 
 My inspiration comes from the aviation industry and the safety processes embedded in it to prevent disaster.
+I've Worked with the following technologies:
+[horizontal]
+Languages: ::
+Typescript, Go, Python, Bash
+Databases: ::
+MySQL, Postgres
+Platforms: ::
+Docker:::
+Fargate, ECS
+Kubernetes:::
+EKS, K3D
+Linux:::
+  Arch Linux, Ubuntu, AWS Linux
+Clouds: ::
+  AWS
+Tools: ::
+DevOps:::
+Terraform, PagerDuty, GitHub Actions
+Data:::
+Grafana, Prometheus, InfluxDB, Kibana
+Kubernetes:::
+Istio, Helm, Kustomize, ArgoCD / Workflows, cert-manager, alb-ingress-controller, external-dns, sealed-secrets
+Management::: Jira, Taskwarrior
 
-== Experience
-* Built a Scalable Kubernetes infrastructure that automates cost savings. And on top of this, we built
-  ** Monitoring and metrics
-  ** Data storage
-  ** Tracing
-  ** Database
+== Achievements
 * I've worked on maintaining AWS accounts to ensure that performance and cost-effectiveness are a priority
-
+* I've worked on building a CI/CD pipelines for a Kubernetes clusters
+* I've worked in high risk environments where uptime is critical (Medical)
 
 == Code
 {{< repo >}}
