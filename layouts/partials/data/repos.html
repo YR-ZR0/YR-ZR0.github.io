@@ -1,5 +1,5 @@
 {{ with getJSON "https://api.github.com/users/YR-ZR0/repos" }} {{ $projects :=
-sort "name" "asc"}} {{ range where $projects "name" "ne" "YR-ZR0.github.io" }}
+sort . "name" "asc"}} {{ range where $projects "name" "ne" "YR-ZR0.github.io" }}
 <a href="{{ .html_url }}">{{ replace .name "-" " " | title }}</a>
 <p>{{ .description }}</p>
 <p>Last pushed: {{.pushed_at | time.Format ":date_long"}}</p>

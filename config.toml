@@ -4,11 +4,12 @@ languageCode = 'en-gb'
 copyright= "James R (YR-ZR0)"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "./resources"
-
+disableKinds = ['rss']
 
 [security]
   enableInlineShortcodes = false
   [security.exec]
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|GEM_PATH)$']
     allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$','^asciidoctor$']
 
 DefaultContentLanguage = "en"
