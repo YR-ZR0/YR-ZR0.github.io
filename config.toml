@@ -40,3 +40,4 @@ show_reading_time = true
     background_color_class = "bg-near-black"
     body_classes = "avenir bg-near-black "
     recent_posts_number = 1
+    custom_css = ["grid.css"]
