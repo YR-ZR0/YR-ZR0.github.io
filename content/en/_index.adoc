@@ -6,7 +6,7 @@ cascade:
 ---
 
 == Me
-I am a Cloud Platform Engineer at a FinTech startup. 
+I am a Senior Platform & Infrastructure Engineer at a Payment Orchestrator
 
 I started my career as a IT Support Engineer and worked my way up to Cloud Platform Engineer. I have a passion for automation and building systems that are resilient and fault tolerant.
 
